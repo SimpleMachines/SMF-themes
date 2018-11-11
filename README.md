@@ -4,7 +4,7 @@ This is the repository for SMF themes, including those released by the Customiza
 
 The software is licensed under [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
 
-Contributions to documentation are licensed under [CC-by-SA 3](https://creativecommons.org/licenses/by-sa/3.0). Third party libraries or sets of images, are under their own licenses.
+Contributions to documentation are licensed under [CC-by-SA 3](https://creativecommons.org/licenses/by-sa/3.0). Third party libraries or sets of images are under their own licenses.
 
 ## Notes:
 
