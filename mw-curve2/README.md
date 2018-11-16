@@ -16,3 +16,6 @@ To install this skin;
 * Find **$wgDefaultSkin** and set it to smfcurve2 as such
 
 > $wgDefaultSkin = "smfcurve2";
+
+###### Graphics
+[Fugue Icons](http://p.yusukekamiyamane.com/) | © 2012 Yusuke Kamiyamane | These icons are licensed under a Creative Commons Attribution 3.0 License
