@@ -10,7 +10,7 @@ Contributions to documentation are licensed under [CC-by-SA 3](https://creativec
 
 Feel free to fork this repository and make your desired changes.
 
-Please see the [Developer's Certificate of Origin](https://github.com/SimpleMachines/SMF-Customization-Team-themes/blob/master/DCO.txt) in the repository:
+Please see the [Developer's Certificate of Origin](https://github.com/SimpleMachines/SMF-themes/blob/master/DCO.txt) in the repository:
 by signing off your contributions, you acknowledge that you can and do license your submissions under the license of the project.
 
 ## How to contribute:
